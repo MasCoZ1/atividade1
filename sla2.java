@@ -1,0 +1,2 @@
+public class sla2 {
+}
